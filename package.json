@@ -26,6 +26,6 @@
   "homepage": "https://github.com/akshaygulhane/documentation#readme",
   "dependencies": {
     "documentation": "^8.1.2",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.21"
   }
 }
